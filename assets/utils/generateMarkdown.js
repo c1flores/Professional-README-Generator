@@ -12,7 +12,7 @@ function renderLicenseBadge(license) {
 function renderLicenseLink(license) {
   if (license !== "None") {
     return (
-      `\n* [License](#license)\n`
+      `* [License](#license-📛)`
     )
   }
   return ""
@@ -22,11 +22,11 @@ function renderLicenseLink(license) {
 function renderLicenseSection(license) {
   if (license !== "None") {
     return (
-      `## License 📛 
+   `## License 📛 
 
-      Copyright @ ${license}. All rights reserved.
+    Copyright @ ${license}. All rights reserved.
 
-      Licensed under the ${license} license.`
+    Licensed under the ${license} license.`
     )
   }
   return ""
@@ -43,18 +43,18 @@ function generateMarkdown(data) {
 
   ## Table of Contents 🗒
 
-  * [Installations](#installations)
+  * [Installations](#installations-(Dependencies)-💻)
 
-  * [Usage](#usage)
+  * [Usage](#usage-🏆)
   
-  ${renderLicenseLink(data.license)}
+  * [Contributors](#contributors-😃)
 
-  * [Contributors](#contributors)
-
-  * [Test](#test)
+  * [Test](#tests-🧪)
 
   * [Questions](#questions)
 
+  ${renderLicenseLink(data.license)}
+  
   ## Installations (Dependencies) 💻
 
   To install dependencies, run these commands:
