@@ -4,7 +4,7 @@
 
   ## Description 📝
 
-  A Node.js based tool that allows the user to create a high-quality README for their repository projects
+  A Node.js based tool that allows the user to create a hgh-quality README for their repository projects
 
   ## Table of Contents 🗒
 

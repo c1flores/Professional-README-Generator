@@ -1,4 +1,4 @@
-// Packages required for application
+// packages required for application
 const inquirer = require("inquirer");
 
 const fs = require("fs");
@@ -88,5 +88,5 @@ function init() {
     })
 }
 
-// Function call to initialize app
+// function call to initialize app
 init();
