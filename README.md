@@ -30,9 +30,9 @@ With two distinct JavaScript files created, I simply added the functionality to 
 ## Installation
 
   - Fork repository
-  - Ensure Node project is created
+  - Setup node project
   - Install dependencies
-  - Ensure Inquirer package (version 8.2.4) is created  
+  - Ensure Inquirer package (version 8.2.4) is installed
 ## Usage
 
   - Open integrated terminal in personal IDE

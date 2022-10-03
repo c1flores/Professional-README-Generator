@@ -85,4 +85,9 @@ Call writeToFile method to create sampleREADME.md in repo folder and generate ma
 init()
 ```
 
+#### Create README. In index.js, open integrated terminal. 
+```
+Run "Node index.js"
+```
+
 
