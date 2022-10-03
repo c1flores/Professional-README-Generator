@@ -43,7 +43,7 @@ function generateMarkdown(data) {
 
   ## Table of Contents 🗒
 
-  * [Installations](#installations-(Dependencies)-💻)
+  * [Installations](#installations-💻)
 
   * [Usage](#usage-🏆)
   
@@ -55,7 +55,7 @@ function generateMarkdown(data) {
 
   ${renderLicenseLink(data.license)}
   
-  ## Installations (Dependencies) 💻
+  ## Installations  💻
 
   To install dependencies, run these commands:
 
@@ -78,7 +78,7 @@ function generateMarkdown(data) {
   To run tests, run these commands:
 
   \`\`\`
-  $(data.test)
+  ${data.test}
   \`\`\`
 
   ## Questions
