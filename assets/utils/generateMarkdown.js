@@ -36,9 +36,6 @@ function generateMarkdown(data) {
   return `# ${data.title}
   ${renderLicenseBadge(data.license)}
 
-  ## GitHub URL 🌐
-
-  [${data.github}](https://github.com/${data.github}/)
 
   ## Description 📝
 
@@ -46,15 +43,17 @@ function generateMarkdown(data) {
 
   ## Table of Contents 🗒
 
-  * [Installations](#dependencies)
+  * [Installations](#installations)
 
   * [Usage](#usage)
-
+  
   ${renderLicenseLink(data.license)}
 
   * [Contributors](#contributors)
 
   * [Test](#test)
+
+  * [Questions](#questions)
 
   ## Installations (Dependencies) 💻
 
@@ -74,8 +73,6 @@ function generateMarkdown(data) {
 
   ${data.contributors}
 
-  Contact me at ${data.email}
-
   ## Tests 🧪
 
   To run tests, run these commands:
@@ -84,6 +81,12 @@ function generateMarkdown(data) {
   $(data.test)
   \`\`\`
 
+  ## Questions
+
+  For additional questions, contact me at the email provided below. 
+
+  - GitHub: [${data.github}](https://github.com/${data.github}/)
+  - Email:  ${data.email}
 `;
 }
 
