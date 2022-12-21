@@ -30,7 +30,7 @@ When creating an open source project on GitHub, it’s important to have a high-
 ## Usage
 
   1. Open integrated terminal in personal IDE.
-  2. Run "node index.js".
+  2. Run ```node index.js```.
   3. Answer the prompts that follow.
   4. A sampleREADME.md will be generated and stored in "utils" folder.
 
