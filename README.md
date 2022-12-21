@@ -25,14 +25,12 @@ When creating an open source project on GitHub, it’s important to have a high-
 
 ## Installation
 
-  - Fork repository
-  - Setup node project
-  - Install dependencies
-  - Ensure Inquirer package (version 8.2.4) is installed
+  1. Fork and clone repository to local machine. 
+  2. Run ```npm i``` to install dependencies in local project directory. 
 ## Usage
 
-  - Open integrated terminal in personal IDE
-  - Type "Node index.js"
-  - Answer the prompts that follow
-  - A sampleREADME.md will be generated and stored in "utils" folder
+  1. Open integrated terminal in personal IDE.
+  2. Run "node index.js".
+  3. Answer the prompts that follow.
+  4. A sampleREADME.md will be generated and stored in "utils" folder.
 
