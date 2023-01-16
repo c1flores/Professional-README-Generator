@@ -36,6 +36,8 @@ When creating an open source project on GitHub, it’s important to have a high-
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 </div>
 
+</br>
+
 ## Installation
 
   1. Fork and clone repository to local machine. 
