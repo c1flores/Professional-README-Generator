@@ -6,6 +6,7 @@
 
   - [Overview](#overview)
   - [Why do professional README markdown files matter?](#why-do-professional-readme-markdown-files-matter)
+  - [Technologies Used](#technologies-used)
   - [Screen Capture](#screen-capture)
   - [Link to Screen Recording of Application](#link-to-screen-recording-of-application)
   - [Installation](#installation)
