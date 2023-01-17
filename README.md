@@ -1,8 +1,8 @@
+<!-- omit in toc -->
+# Professional-README-Generator
 
-
-
-
-# Table of Contents
+<!-- omit in toc -->
+## Table of Contents
 
   - [Overview](#overview)
   - [Why are Professional README Markdown Files Important?](#why-are-professional-readme-markdown-files-important)
@@ -19,7 +19,6 @@ This repository is an exhibition of a professional README generator. The user ca
 When creating an open source project on GitHub, it’s important to have a high-quality README for the app. This should include what the app is for, how to use the app, how to install it, how to report issues, and how to make contributions—this last part increases the likelihood that other developers will contribute to the success of the project.
 
 ## Technologies Used
-
 <div style="display: inline_block"><br>
   <img height="40" align="center" alt="Chris-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -40,11 +39,10 @@ When creating an open source project on GitHub, it’s important to have a high-
 [Link](https://drive.google.com/file/d/1iClDwYC3qFpRrUIluCTTj-AcVWoWfrnB/view?usp=sharing)
 
 ## Installation
-
   1. Fork and clone repository to local machine. 
   2. Run ```npm i``` to install dependencies in local project directory. 
+  
 ## Usage
-
   1. Open integrated terminal in personal IDE.
   2. Run ```node index.js```.
   3. Answer the prompts that follow.
